@@ -1,0 +1,7 @@
+
+public class Chapter04 {
+	public static void main(String[] args) {
+		string name = Hideyo;
+		System.out.println(name);
+	}
+}

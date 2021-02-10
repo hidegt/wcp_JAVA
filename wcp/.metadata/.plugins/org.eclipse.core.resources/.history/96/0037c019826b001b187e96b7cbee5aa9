@@ -1,0 +1,10 @@
+public class chapter5 {
+	public static void main(String[] args) {
+		long longnum = 1111111111111111111L;
+		System.out.println(longnum);
+		double doublenum = 11111111.22222222222;
+		System.out.println(doublenum);
+		boolean booleannum = true;
+		System.out.println(booleannum);
+	}
+}
